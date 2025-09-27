@@ -1,1 +1,5 @@
-eval "$(/opt/homebrew/bin/brew shellenv)"
+# Homebrew for Mac Silicon
+#eval "$(/opt/homebrew/bin/brew shellenv)"
+
+# Homebrew for Mac Intel
+eval "$(/usr/local/bin/brew shellenv)"
